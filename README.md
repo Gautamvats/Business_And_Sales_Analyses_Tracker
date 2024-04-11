@@ -42,7 +42,7 @@ Data Analysis involves exploring the data to answer the following key questions:
 - Tracked other major KPIs to assess overall company performance.
 
 
-### Authorship and Acknowledgments
+### Authorship
 - This project was developed by [Gautam Vats] during a working student position at [StrategyBridgeAI].
 
 ### Dashboard Reports
