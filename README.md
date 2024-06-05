@@ -1,4 +1,4 @@
-# Sales Performance Of Business Analysis for Fintech Company
+# Sales and Business Analyses Tracker for Fintech Company
 
 ### Overview
 This data analysis project focuses on analyzing the sales performance of a fintech company specializing in business analysis reports. By leveraging Microsoft Excel, the project aims to provide insights into the company's sales trends, identify areas for improvement, and make data-driven recommendations to enhance sales strategies and performance. Additionally, the project also tracks information about other major Key Performance Indicators (KPIs) to provide a comprehensive overview of the company's performance.
